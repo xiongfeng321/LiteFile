@@ -2,7 +2,11 @@
 
 一个简单、安全、开箱即用的PHP单文件多用户文件管理系统。拥有现代化的科技感UI，支持文件上传、代码粘贴、在线编辑、多用户权限管理等功能。
 
-![系统截图](https://placehold.co/800x500/0a192f/64ffda?text=在这里放一张系统截图)
+![image](https://github.com/user-attachments/assets/ad8b71f5-79a7-4771-8b63-522450d0f543)
+登录界面
+
+![image](https://github.com/user-attachments/assets/3a0a4cef-1bb7-4b7d-a6ee-276c66e820b1)
+操作界面
 
 ## ✨ 主要功能
 
