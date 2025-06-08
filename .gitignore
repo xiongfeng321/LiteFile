@@ -1,0 +1,9 @@
+# 配置文件 (包含敏感信息)
+config.php
+
+# 用户生成的数据
+/data/
+/uploads/
+
+# 系统自动生成的文件
+.DS_Store
