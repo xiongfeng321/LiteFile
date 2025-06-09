@@ -27,6 +27,7 @@
 - PHP >= 7.0.0
 - PHP PDO 扩展
 - PHP SQLite3 扩展 (`php-sqlite3`)
+- Web 服务器 (推荐 Nginx)
 
 ## 🛠️ 安装步骤
 
@@ -40,7 +41,7 @@
 
 5. 确保服务器对您的项目根目录有写入权限，程序会自动创建 `data` 和 `uploads` 两个文件夹。如果创建失败，请手动创建这两个文件夹，并赋予PHP写入权限（例如 `sudo chown -R www-data:www-data /您的项目目录`）。
 
-6. #### 🌐 Web服务器配置 (Nginx 示例)
+## 🌐 Web服务器配置 (Nginx 示例)
 
    您需要配置Web服务器，使其能正确处理PHP请求。以下是一份推荐的 Nginx 配置文件 `server` 块示例：
 
